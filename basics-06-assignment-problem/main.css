@@ -19,3 +19,12 @@ color: red;
 li{
     font-family: inherit;
 }
+ol > li .first-li{
+    background: #fff;
+    color: #000000;
+}
+
+ol > li{
+    background: #000000;
+    color: #fff;
+}
